@@ -1,43 +1,72 @@
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 20px;
-  }
-  
-  h1 {
-    color: #333;
-  }
-  
-  h2 {
-    color: #555;
-  }
-  
-  h3 {
-    color: #777;
-  }
-  
-  hr {
-    border: 1px solid #ccc;
-    margin: 20px 0;
-  }
-  
-  p {
-    color: #444;
-  }
-  
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  li {
-    margin-bottom: 8px;
-  }
-  
-  footer {
-    margin-top: 50px;
-    text-align: center;
-    color: #888;
-  }
-  
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+h2 {
+  color: #3498db;
+}
+
+h3 {
+  color: #e74c3c;
+}
+
+hr {
+  border: 1px solid #bdc3c7;
+  margin: 20px 0;
+}
+
+p {
+  color: #555;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+  color: #888;
+}
+
+/* Add more styles as needed */
+
+/* Education section colors */
+h4 {
+  color: #9b59b6;
+}
+
+/* Experience section colors */
+h4 {
+  color: #27ae60;
+}
+
+/* Skills section colors */
+ul li {
+  color: #e67e22;
+}
+
+/* Activities section colors */
+h3 {
+  color: #f39c12;
+}
+
+/* References section colors */
+ul li {
+  color: #d35400;
+}
+
